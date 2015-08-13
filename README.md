@@ -1,6 +1,6 @@
 # biofiletypes
 
-<http://stephenturner.us/biofiletypes/>
+<http://stephenturner.github.io/biofiletypes>
 
 _in development_
 
