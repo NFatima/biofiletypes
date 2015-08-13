@@ -1,8 +1,10 @@
-# CSV to HTML Table
+# biofiletypes
 
-Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript.
+_in development_
 
-Check out the working demo: http://derekeder.github.io/csv-to-html-table/
+List of biological file types and their definitions.
+
+## Contributing
 
 ## Usage
 
