@@ -15,6 +15,8 @@ List of biological file types and their definitions.
 
 ## Dependencies
 
+Rendered in a searchable, filterable HTML table [here](<http://stephenturner.github.io/biofiletypes>) using [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table).
+
 * [Bootstrap](http://getbootstrap.com/) - Responsive HTML, CSS and Javascript framework
 * [jQuery](https://jquery.com/) - a fast, small, and feature-rich JavaScript library
 * [jQuery CSV](https://code.google.com/p/jquery-csv/) - Parse CSV (Comma Separated Values) to Javascript arrays or dictionaries.
