@@ -9,9 +9,10 @@ List of biological file types and their definitions.
 ## Contributing
 
 1. Fork this repository, clone your fork, and edit [data/biofiletypes.csv](data/biofiletypes.csv). 
-2. If you're using Excel, make sure to remove the silly MS line endings (e.g., use something like `tr '\r' '\n'` or [this in-place solution](https://github.com/stephenturner/devnotes/blob/master/scripts/fixms)).
-3. Test that the new file works locally by running this handy python command: `python -m SimpleHTTPServer` and navigating to <http://localhost:8000/>.
-4. Commit and push those changes to your fork and submit a pull request.
+2. If you're using Excel, make sure to remove the silly MS line endings (e.g., use something like `tr '\r' '\n'` or [this in-place solution](https://github.com/stephenturner/devnotes/blob/master/scripts/fixms)). Alternatively, run `make` in the top directory.
+3. Special note about URLs: if you're including URLs, you can use markdown-style links and run `make` to convert them to HTML links. If writing raw HTML, be sure to single-quote URLs.
+4. Test that the new file works locally by running this handy python command: `python -m SimpleHTTPServer` and navigating to <http://localhost:8000/>.
+5. Commit and push those changes to your fork and submit a pull request.
 
 ## Dependencies
 
