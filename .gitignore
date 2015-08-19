@@ -1,1 +1,4 @@
-.DS_Store
+# OSX Stuff
+.DS_Store*
+._*
+.Trashes
