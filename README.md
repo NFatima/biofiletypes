@@ -1,6 +1,6 @@
 # biofiletypes
 
-<http://stephenturner.github.io/biofiletypes>
+See filterable/searchable rendered version at [stephenturner.github.io/biofiletypes](http://stephenturner.github.io/biofiletypes).
 
 _in development_
 
